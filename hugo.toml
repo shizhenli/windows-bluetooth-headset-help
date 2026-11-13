@@ -2,7 +2,9 @@ baseURL = "https://windows-bluetooth-headset-help.pages.dev/"
 languageCode = "en-us"
 title = "Windows Bluetooth Headset Help"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 [params]
+template_version = "v1.1.0"
 description = "Fix one Windows Bluetooth headset: pairing, output, microphone, stutter, and reconnect."
 category = "PC & Mac"
 source = "windows-bluetooth-headset-help"
