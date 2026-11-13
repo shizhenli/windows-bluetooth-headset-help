@@ -1,7 +1,7 @@
 baseURL = "https://windows-bluetooth-headset-help.pages.dev/"
 languageCode = "en-us"
 title = "Windows Bluetooth Headset Help"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "windows-bluetooth-headset-help"
