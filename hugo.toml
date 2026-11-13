@@ -24,6 +24,7 @@ theme_hero_accent = "#B8B2C6"
 theme_deep_accent = "#B8B2C6"
 theme_mobile_ink = "#182018"
 theme_mobile_link = "#362C4A"
+theme_mobile_kicker = "#362C4A"
 theme_deep = "#242425"
 theme_deep_ink = "#FFFFFF"
 theme_header_ink = "#182018"
@@ -32,7 +33,7 @@ theme_link = "#362C4A"
 theme_scrim = "rgba(8,12,16,0.86)"
 theme_light = true
 hero_desktop_hd_width = 1920
-hero_mobile_hd_width = 768
+hero_mobile_hd_width = 960
 [security.funcs]
 getenv = ["^CF_PAGES_BRANCH$"]
 [markup.goldmark.renderer]
